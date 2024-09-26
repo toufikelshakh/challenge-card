@@ -1,0 +1,87 @@
+img {
+    border-radius: 50px;
+    margin-top: 0%;
+    margin: 0%;
+}
+
+h1 {
+    color: blue;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+h2 {
+    color: white;
+    font-size: 13px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.information {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0%;
+    margin-top: 10;
+}
+
+body {
+    background-color: gray;
+    color: azure;
+}
+
+.cadre {
+    background-color: black;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.genie {
+
+
+    background-color: red;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    }
+.genie:hover{
+    transform: scale(1,2)
+  
+
+
+ }
+
+.artiste {
+    border: 2px;
+
+    gap: 10px;
+    background-color: red;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none; 
+}
